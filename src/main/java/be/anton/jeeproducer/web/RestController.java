@@ -1,6 +1,6 @@
 package be.anton.jeeproducer.web;
 
-import be.anton.jeeproducer.producer.Value;
+import be.anton.jeeproducer.producer.value.Value;
 
 import javax.inject.Inject;
 import javax.inject.Named;

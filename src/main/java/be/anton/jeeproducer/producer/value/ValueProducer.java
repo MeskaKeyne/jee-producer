@@ -1,4 +1,4 @@
-package be.anton.jeeproducer.producer;
+package be.anton.jeeproducer.producer.value;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

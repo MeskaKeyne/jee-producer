@@ -1,4 +1,4 @@
-package be.anton.jeeproducer.producer;
+package be.anton.jeeproducer.producer.value;
 
 import javax.enterprise.util.Nonbinding;
 import javax.inject.Qualifier;
